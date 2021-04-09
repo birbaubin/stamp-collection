@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Test",
+    "owner": "user1",
+    "description": "Test system"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "user3"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Diag1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "user2"
+  }
+}
