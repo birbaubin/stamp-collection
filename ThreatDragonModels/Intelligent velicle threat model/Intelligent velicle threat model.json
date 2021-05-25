@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "title": "Intelligent velicle threat model",
+    "owner": "Aubin BIRBA"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "user 1"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "diagram 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
